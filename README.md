@@ -29,7 +29,7 @@ Description : Ce service permet aux utilisateurs de récupérer les messages env
 ### utilisation de java swing pour une meilleur experience pour l utilisateur
 ## Deploiemnt et Test
 Java RMI
-Cloner ce référentiel depuis GitHub : git clone https://github.com/mohamedaminerebhi/Projet-sys-repartie-IDS3/tree/main/TaskManagement/src
+Cloner ce référentiel depuis GitHub : git clone [https://github.com/jlassim/Mini-Projet-id3/tree/main/mini-projet/mini-projet-sys-repartie/TaskManagement/src/Task]
 Accéder au répertoire Java RMI : cd java-rmi
 Compiler le code : javac *.java
 Démarrer le registre RMI : start rmiregistry
