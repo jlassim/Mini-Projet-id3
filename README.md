@@ -28,24 +28,39 @@ Récupération des messages envoyés par d'autres utilisateurs
 Description : Ce service permet aux utilisateurs de récupérer les messages envoyés par d'autres utilisateurs dans le même salon de discussion.
 ### utilisation de java swing pour une meilleur experience pour l utilisateur
 ## Deploiemnt et Test
-Java RMI
+### Java RMI
 Cloner ce référentiel depuis GitHub : git clone [https://github.com/jlassim/Mini-Projet-id3/tree/main/mini-projet/mini-projet-sys-repartie/TaskManagement/src/Task]
+
 Accéder au répertoire Java RMI : cd java-rmi
+
 Compiler le code : javac *.java
+
 Démarrer le registre RMI : start rmiregistry
+
 Exécuter le serveur : java TaskServer
+
 Exécuter le client : java TaskClient
-gRPC
-Cloner ce référentiel depuis GitHub : git clone https://github.com/mohamedaminerebhi/Projet-sys-repartie-IDS3/tree/main/GRPC-Messagerie/src/main/java
+### gRPC
+Cloner ce référentiel depuis GitHub : git clone [https://github.com/jlassim/Mini-Projet-id3/tree/main/mini-projet/mini-projet-sys-repartie/GRPC-Messagerie/src/main/java]
+
 Accéder au répertoire gRPC : cd grpc
+
 Installer les dépendances : npm install
+
 Démarrer le serveur : java MessagingService.java
+
 Exécuter le client : java MessagingClient.java
-Sockets
+
+### Sockets
 Cloner ce référentiel depuis GitHub : git clone https://github.com/mohamedaminerebhi/Projet-sys-repartie-IDS3/tree/main/ChatRoom/src
+
 Accéder au répertoire Sockets : cd sockets
+
 Compiler le code : javac *.java
+
 Démarrer le serveur : java Server
+
 Exécuter le client : java Client
-Contributeurs
-REBHI MOHAMED AMINE (IDS3)
+
+## Contributeurs
+### jlassi maram (IDS3)
