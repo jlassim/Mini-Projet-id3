@@ -52,7 +52,7 @@ Démarrer le serveur : java MessagingService.java
 Exécuter le client : java MessagingClient.java
 
 ### Sockets
-Cloner ce référentiel depuis GitHub : git clone https://github.com/mohamedaminerebhi/Projet-sys-repartie-IDS3/tree/main/ChatRoom/src
+Cloner ce référentiel depuis GitHub : git clone [https://github.com/jlassim/Mini-Projet-id3/tree/main/mini-projet/mini-projet-sys-repartie/Chat/src]
 
 Accéder au répertoire Sockets : cd sockets
 
